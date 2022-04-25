@@ -1,6 +1,6 @@
 ## LS-SPACE-CLI
 
-###### Installation・Documentation
+###### [Installation](#Installation)・[Documentation](#Documentation )
 
 ### Installation guide
 
