@@ -1,2 +1,23 @@
-# lsspace-cli
-A "script" that allows you to see the total space and its evaluation, the used and free space. Made in python with 2 libraries.
+## LS-SPACE-CLI
+
+###### Installation・Documentation
+
+### Installation guide
+
+```bash
+git clone https://github.com/aniko33/lsspace-cli.git && cd llsspace-cli && pip install -r req.txt
+```
+
+### Documentation
+
+###### Memory evaluation
+
+The memory is evaluated from green to red which indicate the status of the memory, this is a table where the various gradations are observed
+
+| Green | High |
+| Yellow | Medium |
+| Red | Low |
+
+**High** means it's good,
+**medium** means that it is neither bad nor good,
+**low** means that it is really bad
