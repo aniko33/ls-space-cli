@@ -5,7 +5,7 @@
 ### Installation guide
 
 ```bash
-git clone https://github.com/aniko33/lsspace-cli.git && cd llsspace-cli && pip install -r req.txt
+git clone https://github.com/aniko33/lsspace-cli.git && cd lsspace-cli && pip install -r req.txt
 ```
 
 ### Documentation
