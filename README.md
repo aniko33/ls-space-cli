@@ -23,3 +23,5 @@ The memory is evaluated from green to red which indicate the status of the memor
 **High** means it's good,
 **medium** means that it is neither bad nor good,
 **low** means that it is really bad
+### Screenshot
+![stock.png](images/stock.png)
