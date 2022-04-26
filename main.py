@@ -21,11 +21,11 @@ medspace=tz/2
 
 # Total space and HDD rating
 """
-Green: greater than 800 Gigabytes
+Green: good than 800 Gigabytes
 
-Yellow: greater than 400 Gigabytes
+Yellow: medium than 400 Gigabytes
 
-Red: less than 400 Gigabytes
+Red: bad than 400 Gigabytes
 """
 
 if tz > 800:
