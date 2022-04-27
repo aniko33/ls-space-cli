@@ -12,7 +12,7 @@ git clone https://github.com/aniko33/lsspace-cli.git && cd lsspace-cli && pip in
 ### Automatic installation
 
 ```bash
-curl https://raw.githubusercontent.com/aniko33/lsspace-cli/main/installation -o installation.sh
+curl https://raw.githubusercontent.com/aniko33/lsspace-cli/main/installation -o installation && chmod +x installation
 ```
 
 ### Documentation
