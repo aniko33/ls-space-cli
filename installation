@@ -2,7 +2,8 @@
 
 git clone https://github.com/aniko33/lsspace-cli.git
 cd lsspace-cli
-printf'\n wait... \n'
+echo
+printf'wait... \n'
 pip install -r req.txt
 echo ------------------------------
 printf'    installation completed \n'
