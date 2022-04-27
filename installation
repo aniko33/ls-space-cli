@@ -1,10 +1,5 @@
 #!/bin/bash
 
-if [ "$EUID" -ne 0 ]
-  then echo "Please run as root"
-  exit
-fi
-
 git clone https://github.com/aniko33/lsspace-cli.git
 cd lsspace-cli
 pip install -r req.txt
